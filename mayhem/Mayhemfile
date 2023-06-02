@@ -1,0 +1,5 @@
+project: llama.cpp
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
